@@ -21,6 +21,7 @@ To plot, please run [Fig*.m](https://github.com/AsahiNakamuta/stemcell/blob/main
  
 # Note
 
+The data used in analysis of primate hematopoiesis is publicly available at [Kim et al., Cell Stem Cell (2014)](http://doi.org/10.1016/j.stem.2013.12.012).
 I don't test environments under Linux and Mac.
  
 # Author
